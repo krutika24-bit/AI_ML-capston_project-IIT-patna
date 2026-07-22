@@ -133,3 +133,8 @@ The script will:
 - matplotlib
 - seaborn
 - sqlite3 (built-in)
+
+
+## Author
+krutika Bhoi 
+BCA Graduate- AIML intern 

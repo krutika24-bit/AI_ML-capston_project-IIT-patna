@@ -131,4 +131,13 @@ See `requirements.txt` for all dependencies.
 ├── dataset_Facebook.csv       # Dataset
 ├── README.md                  # This file
 ├── requirements.txt           # Dependencies
+
+
+##Author
+krutika Bhoi
+Predictive Modeling Pipeline — Facebook Performance Metrics
+
+**Capstone Project Part 2**  
+Predicting social media post engagement for a cosmetics brand using machine learning.
+
 ```
